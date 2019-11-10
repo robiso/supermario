@@ -20,8 +20,8 @@
     </head>
 
     <body>
-        <?= $Wcms->alerts() ?>
         <?= $Wcms->settings() ?>
+        <?= $Wcms->alerts() ?>
     
         <div id="sun"></div>
     	<nav class="navbar navbar-default">
