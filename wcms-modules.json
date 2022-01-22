@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "supermario": {
+            "name": "Supermario",
+            "repo": "https://github.com/robiso/supermario/tree/master",
+            "zip": "https://github.com/robiso/supermario/archive/master.zip",
+            "summary": "Super mario!",
+            "version": "3.2.0",
+            "image": "https://raw.githubusercontent.com/robiso/supermario/master/preview.jpg"
+        }
+    }
+}
